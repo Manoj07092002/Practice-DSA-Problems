@@ -7,7 +7,7 @@ class atoi{
 
         String str = "-123";
 
-        int res = atoi1(str);
+        //int res = atoi1(str);
 
         System.out.println(res); 
     }
@@ -21,7 +21,7 @@ class atoi{
             if(i == 0 && s.charAt(i) == 45){
                 sign =1;
                 continue;
-            
+            hiii
             }
 
             if(s.charAt(i) >= '0' && s.charAt(i) <= '9'){
