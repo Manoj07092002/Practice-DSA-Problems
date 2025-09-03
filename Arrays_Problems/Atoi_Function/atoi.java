@@ -22,6 +22,7 @@ class atoi{
                 sign =1;
                 continue;
             hiii
+                hemanth
             }
 
             if(s.charAt(i) >= '0' && s.charAt(i) <= '9'){
@@ -46,5 +47,6 @@ class atoi{
         }
         return res;
     }
+
 
 }
